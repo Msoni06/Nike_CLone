@@ -31,7 +31,7 @@ You can view a live demo of the project [here](https://nike-clone-virid.vercel.a
 1. Clone the repository:
 
 ```
-https://github.com/nikpatil2123/Nike_CLone.git
+https://github.com/Msoni06/Nike_CLone.git
 ```
 
 2. Install the dependencies:
